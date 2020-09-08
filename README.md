@@ -1,2 +1,2 @@
 # Image-classificaiton-Using-TensorFlow
-Image Classification Task using TensorFlow framework
+Image Classification Task using Python TensorFlow framework
